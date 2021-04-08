@@ -7,4 +7,11 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="fondo">#f7ead0</color>
+    <color name="btnClaro">#d0e5f2</color>
+    <color name="btnFuerte">#f07e1a</color>
+    <color name="titulos">#956c3b</color>
+    <color name="letraOscura">#1b1b1b</color>
+    <color name="degradadoNaranja">#f39542</color>
 </resources>
